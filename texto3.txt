@@ -1,2 +1,1 @@
-Olá aqui é o texte de texto três, onde eu subo o texto para um repositório no github, subo para o repositório, executo o arquivo cria áudio ponto py.
-O áudio será gravado no mesmo diretório do programa cria áudio ponto py.
+Olá! Aqui está o texto de teste três, onde eu faço o upload do texto para um repositório no GitHub, executo o arquivo cria_audio.py e o áudio será gravado no mesmo diretório do programa cria_audio.py.
