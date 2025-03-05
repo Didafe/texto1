@@ -1,0 +1,6 @@
+Aqui vai uma piada de TI:
+
+— Por que o programador sempre confunde Natal com Halloween?
+— Porque Oct 31 é igual a Dec 25! 😆🎃🎄
+
+(Explicação nerd: Em octal, 31 equivale a 25 no sistema decimal!)
